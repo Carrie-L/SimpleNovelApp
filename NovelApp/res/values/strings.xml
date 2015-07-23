@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">点墨文学</string>
+    <string name="url">http://www.tianyabook.org</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_grid_view">MyGridView</string>
+    <string name="title_activity_book_read">BookRead</string>
+    <string name="title_activity_book_database">BookDatabase</string>
+    <string name="title_activity_book">Book</string>
+    <string name="title_activity_book_mune">BookMune</string>
+    <string name="title_activity_classify_db">ClassifyDB</string>
+    <string name="config">设置</string>
+    <string name="home"> 首页</string>
+    <string name="add_text">导入</string>
+    <string name="about">关于</string>
+    <string name="add_text_file">选择你要导入的文件</string>
+    <string name="back_to">返回上一级</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_shelf">ShelfActivity</string>
+    <string name="bookpop_size">字体</string>
+    <string name="bookpop_light">亮度</string>
+    <string name="bookpop_card">书签</string>
+    <string name="bookpop_send">跳转</string>
+    <string name="bookpop_style">风格</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="btn_color_picker">点墨文学</string>
+    <string name="btn_color_picker2">hedy</string>
+    <string name="title_activity_flipper_layout">FlipperLayout</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="search_label">搜索</string>
+    <string name="search_hint">输入小说名</string>
+    <string name="load">正在打开书库</string>
+    <string name="onlineRead">在线</string>
+    <string name="shelf_search">书架搜索</string>
+    <string name="change_style">换肤</string>
+    <string name="feedback">反馈</string>
+    <string name="title_activity_shelf_aearch">ShelfAearch</string>
+    <string name="title_activity_change_style">ChangeStyle</string>
+    <string name="title_activity_book_db">BookDB</string>
+
+</resources>

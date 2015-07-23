@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+       <ImageButton
+           android:id="@+id/imageBtn5_2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentRight="true"
+           android:layout_alignTop="@+id/imageBtn5_1"
+           android:layout_marginRight="56dp"
+           android:background="@android:color/transparent"
+           android:contentDescription="@string/app_name"
+           android:src="@drawable/gufeng" />
+
+       <ImageButton
+           android:id="@+id/imageBtn5_1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentBottom="true"
+           android:layout_marginBottom="115dp"
+           android:layout_toLeftOf="@+id/imageBtn5_2"
+           android:background="@android:color/transparent"
+           android:contentDescription="@string/app_name"
+           android:src="@drawable/cartoon" />
+
+       <ImageButton
+           android:id="@+id/imageBtn5_3"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_above="@+id/imageBtn5_2"
+           android:layout_alignLeft="@+id/imageBtn5_2"
+           android:background="@android:color/transparent"
+           android:contentDescription="@string/app_name"
+           android:src="@drawable/green_3" />
+
+       <ImageButton
+           android:id="@+id/imageBtn5_4"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_above="@+id/imageBtn5_2"
+           android:layout_toLeftOf="@+id/imageBtn5_2"
+           android:background="@android:color/transparent"
+           android:contentDescription="@string/app_name"
+           android:src="@drawable/yellow_4" />
+
+</RelativeLayout>

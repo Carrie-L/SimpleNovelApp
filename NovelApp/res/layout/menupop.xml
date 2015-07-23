@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_above="@drawable/shelf_menu_button"
+        android:background="@drawable/shelf_fram"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shelf_menu_hide"
+            android:onClick="disappear" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical" >
+
+                <RadioButton
+                    style="@style/mainPopRadiobtn"
+                    android:drawableTop="@drawable/shelf_menu_search"
+                    android:onClick="shelfSearch"
+                    android:text="@string/shelf_search" />
+
+                <RadioButton
+                    style="@style/mainPopRadiobtn"
+                    android:drawableTop="@drawable/shelf_menu_change_style"
+                    android:onClick="changeStyle"
+                    android:text="@string/change_style" />
+
+                <RadioButton
+                    android:id="@+id/about"
+                    style="@style/mainPopRadiobtn"
+                    android:drawableTop="@drawable/shelf_menu_about"
+                    android:onClick="onAbout"
+                    android:text="@string/about" />
+
+                <RadioButton
+                    style="@style/mainPopRadiobtn"
+                    android:drawableTop="@drawable/lib_back"
+                    android:onClick="feedback"
+                    android:text="@string/feedback" />
+            </RadioGroup>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

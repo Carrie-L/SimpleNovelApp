@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<string name="sgchapter1">第一回 宴桃园豪杰三结义    斩黄巾英雄首立功 </string>
+<string name="sgchapter2">第二回 张翼德怒鞭督邮    何国舅谋诛宦竖 </string>
+<string name="sgchapter3">第三回 议温明董卓叱丁原    馈金珠李肃说吕布 </string>
+<string name="sgchapter4">第四回 废汉帝陈留践位    谋董贼孟德献刀 </string>
+<string name="sgchapter5">第五回 发矫诏诸镇应曹公    破关兵三英战吕布 </string> 
+<string name="sgchapter6">第六回 焚金阙董卓行凶    匿玉玺孙坚背约 </string>
+<string name="sgchapter7">第七回 袁绍磐河战公孙    孙坚跨江击刘表 </string>
+<string name="sgchapter8">第八回 王司徒巧使连环计    董太师大闹凤仪亭 </string>
+<string name="sgchapter9">第九回 除暴凶吕布助司徒    犯长安李傕听贾诩 </string>
+<string name="sgchapter10">第十回 勤王室马腾举义    报父仇曹操兴师 </string>
+<string name="sg_end">试读就到这里，请购买正式版！</string>
+
+<string name="hlchapter1"> 第一回  甄士隐梦幻识通灵　贾雨村风尘怀闺秀</string>
+<string name="hlchapter2"> 第二回  贾夫人仙逝扬州城　冷子兴演说荣国府</string>
+<string name="hlchapter3"> 第三回   贾雨村夤缘复旧职　林黛玉抛父进京都</string>
+<string name="hlchapter4">第四回  薄命女偏逢薄命郎　葫芦僧乱判葫芦案 </string>
+<string name="hlchapter5"> 第五回  游幻境指迷十二钗　饮仙醪曲演红楼梦</string>
+<string name="hlchapter6"> 第六回  贾宝玉初试云雨情　刘姥姥一进荣国府</string>
+<string name="hlchapter7">第七回  送宫花贾琏戏熙凤　宴宁府宝玉会秦钟 </string>
+<string name="hlchapter8">第八回 比通灵金莺微露意　探宝钗黛玉半含酸 </string>
+<string name="hlchapter9"> 第九回  恋风流情友入家塾　起嫌疑顽童闹学堂</string>
+<string name="hlchapter10"> 第十回　金寡妇贪利权受辱　张太医论病细穷源</string>
+<string name="hl_end">试读就到这里，请购买正式版！</string>
+
+<string name="sdchapter1">第一回　风雪惊变 </string>
+<string name="sdchapter2">第二回　江南七怪 </string>
+<string name="sdchapter3">第三回　大漠风沙 </string>
+<string name="sdchapter4">第四回　黑风双煞 </string>
+<string name="sdchapter5">第五回　弯弓射雕</string>
+<string name="sd_end">试读就到这里，请购买正式版！</string>
+
+<string name="tlchapter1">第一章 青衫磊落险峰行 </string>
+<string name="tlchapter2">第二章 玉壁月华明 </string>
+<string name="tlchapter3">第三章 马疾香幽 </string>
+<string name="tlchapter4">第四章 崖高人远 </string>
+<string name="tlchapter5">第五章 微步毂纹生</string>
+<string name="tl_end">试读就到这里，请购买正式版！</string>
+
+</resources>

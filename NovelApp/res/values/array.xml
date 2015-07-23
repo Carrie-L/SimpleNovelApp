@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bookId">
+        <item>book0.txt</item>
+       
+    </array>
+    
+    <string-array name="bookName">
+        <item>不负如来不负卿.txt</item>
+    </string-array>
+    
+    <string-array name="bookAuthor">
+        <item>小春</item>
+    </string-array>
+    
+</resources>
